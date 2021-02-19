@@ -1,0 +1,26 @@
+[
+    {
+      "placeImage": "images/buncha.jpg",
+      "placeName": "Bún Chả Hà Nội",
+      "placeItems": ["Noodles","VietNam","Fast Food","Italian","Juice"],
+      "minOrder": 20
+    },
+    {
+      "placeImage": "images/banhmi.jpg",
+      "placeName": "Bánh Mì",
+      "placeItems": ["Burgers","VietNam","Fast Food","Italian","Juice"],
+      "minOrder": 50
+    },
+    {
+      "placeImage": "images/phobo.jpg",
+      "placeName": "Phở bò Hà Nội",
+      "placeItems": ["Noodles","VietNam","Fast Food","Italian","Juice"],
+      "minOrder": 20
+    },
+    {
+      "placeImage": "images/nemchuaran.jpg",
+      "placeName": "Nem Chua Rán ",
+      "placeItems": ["Burgers","VietNam","Fast Food","Italian","Juice"],
+      "minOrder": 40
+    }
+  ]
